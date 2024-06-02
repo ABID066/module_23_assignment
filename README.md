@@ -1,17 +1,4 @@
-## E-commerce Backend API with Express.js (Final exam OSTAD)
 
-This project is a backend API for an e-commerce application built with Express.js. It provides functionalities to manage products and other functionalities that fulfilling the assignment requirements.
-
-### Technologies Used
-
-* Node.js
-* Express.js
-* [Database Technology] (e.g. Mongoose for MongoDB)
-
-### Features
-
-* CRUD operations (Create, Read, Update, Delete) for products and categories.
-* Additional functionalities can be implemented based on your specific needs (e.g., user management, shopping cart, order processing).
 
 ### Installation
 
@@ -37,5 +24,3 @@ API Documentation can be found here: https://documenter.getpostman.com/view/2610
 
 ### Questions
 
-If you have any questions, feel free to create an issue on this repository.
-# module_23_exam
