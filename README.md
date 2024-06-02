@@ -11,7 +11,7 @@ npm install
 
 3. Configure config.js file as yours.
 
-4. (Optional) Seed your database with initial data.
+4. Seed your database with initial data.
 
 5. Start the server:
 
