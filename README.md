@@ -16,11 +16,8 @@ npm install
 5. Start the server:
 
 ```bash
-nodemon index.js
+nodemon start
 ```
 
 ### API Documentation
 API Documentation can be found here: https://documenter.getpostman.com/view/26105527/2sA3Qv8qS1
-
-### Questions
-
